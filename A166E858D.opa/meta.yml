@@ -1,0 +1,21 @@
+id: A166E858D
+title: Bhaiṣajyagurupūrvapraṇidhānasūtra
+type: translation
+pechas:
+- I7744F956
+- I0FE252DA
+- I7B2E71BB
+- IB22A6AAB
+source_metadata:
+  languages:
+  - zh
+  - bo
+  - sa
+  datatype: PlainText
+  created_at: 2023-02-08 14:55:49.183237
+  last_modified_at: 2023-02-08 14:55:49.183250
+alignment_to_base:
+  I7744F956/7B43: E2E9
+  I0FE252DA/033D: E2E9
+  I7B2E71BB/D2CD: E2E9
+  IB22A6AAB/BF85: E2E9
